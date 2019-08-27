@@ -1,1 +1,1 @@
-print("Hello")
+c:\profili\u304709\Documents\GitHub\Python_Git
